@@ -67,7 +67,7 @@ console.log(a); //output :- 40
 a = function() {
     
    x = 20;  // data type is not defined
-  console.log(x); // value is:- 20
+  console.log(x); 
 };
 b = function() {
     
